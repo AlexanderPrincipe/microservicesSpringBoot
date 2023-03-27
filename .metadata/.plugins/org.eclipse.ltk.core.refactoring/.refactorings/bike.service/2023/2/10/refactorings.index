@@ -1,0 +1,9 @@
+1677542437465	Rename type 'UserController'
+1677542445676	Rename type 'User'
+1677542454183	Rename type 'UserRepository'
+1677542464354	Rename type 'UserService'
+1677542979472	Delete elements
+1677543011177	Rename type 'Car'
+1677543020874	Rename type 'CarRepository'
+1677543028939	Rename type 'CarService'
+1677543039967	Rename type 'CarController'
